@@ -4,7 +4,7 @@ Theme para Lazarus IDE
 ![c_a](https://github.com/tporto/my-lazarus-theme/blob/master/images/image.png)
 
 Instale a font que encontra-se na pasta: operator mono font. 
-No lazarus, vá em: Tools -> Options -> Editor -> Display. Escolha a font "OperatorMono Nerd Font", gosto de usar o tamanho 12.
+No lazarus, vá em: Tools -> Options -> Editor -> Display. Escolha a font "OperatorMono Nerd Font". 
 
 Para usar o tema, copie o arquivo "Twilight_tporto.xml" e cole em:
 * Linux: ~/.lazarus/userschemes/
